@@ -20,6 +20,11 @@ Hello, I'm Trevor Loreth, a Data Analyst with a core interest in data visualizat
 
 Imported data from Excel into Power BI, created a dashboard consisting of an executive overview, Discount efficacy analysis, and a Returns analysis page.
 >**Highlights:** Utilized several DAX measures to gather advanced insights aiding in analysis. Introduced interactivity in the form of buttons within each page of the dashboard.
+
+[Sales Targets & Performance Dashboard Power BI](https://github.com/Trevor-Loreth/Power-BI-Repository/tree/main/Sales%20Targets%20%26%20Performance%20Dashboard)
+
+This dashboard focuses on breaking down **Actual Sales vs Sales Targets** across key business dimensions to uncover performance patterns that aren’t obvious from raw data alone.
+>**Highlights:** Utilized several DAX measures to gather advanced insights aiding in analysis. Shows where targets are exceeded, performance is lagging, and trends over time.
 <!--
 **Trevor-Loreth/Trevor-Loreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
