@@ -25,6 +25,11 @@ Imported data from Excel into Power BI, created a dashboard consisting of an exe
 
 This dashboard focuses on breaking down **Actual Sales vs Sales Targets** across key business dimensions to uncover performance patterns that aren’t obvious from raw data alone.
 >**Highlights:** Utilized several DAX measures to gather advanced insights aiding in analysis. Shows where targets are exceeded, performance is lagging, and trends over time.
+
+[Manufacturing-Defect-Cost-Analysis](https://github.com/Trevor-Loreth/Manufacturing-Defect-Cost-Analysis)
+
+Created an SSMS database from pre-existing Excel tables. Fixed columns, created a summary view, and stored procedures for data insertion using T-SQL. Created a live connection between the database and the Power BI Dashboard. Analyzed plant output and performance to determine a course of action. Presented Findings in a PowerPoint.
+>**Highlights:** Created several DAX measures and tables to aid in the operational assessment of plants. Used T-SQL to create several stored procedures for data insertion, to fix columns, and to create a summary view.
 <!--
 **Trevor-Loreth/Trevor-Loreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
